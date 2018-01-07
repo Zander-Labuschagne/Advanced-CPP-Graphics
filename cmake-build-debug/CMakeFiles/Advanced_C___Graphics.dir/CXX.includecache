@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zander/CLionProjects/Advanced C++ Graphics/src/Errors.cpp
+include/Errors.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/Errors.h
+
+/home/zander/CLionProjects/Advanced C++ Graphics/src/GLSLProgram.cpp
+include/GLSLProgram.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/GLSLProgram.h
+
+/home/zander/CLionProjects/Advanced C++ Graphics/src/IOManager.cpp
+include/IOManager.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/IOManager.h
+
+/home/zander/CLionProjects/Advanced C++ Graphics/src/MainGame.cpp
+include/Errors.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/Errors.h
+include/MainGame.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/MainGame.h
+
+/home/zander/CLionProjects/Advanced C++ Graphics/src/Sprite.cpp
+include/Sprite.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/Sprite.h
+
+/home/zander/CLionProjects/Advanced C++ Graphics/src/main.cpp
+iostream
+-
+include/MainGame.h
+/home/zander/CLionProjects/Advanced C++ Graphics/src/include/MainGame.h
+

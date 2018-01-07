@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Advanced_C___Graphics"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib64\;CMake Files\..\..\..\..\usr\lib64\cmake\;CMake Files\..\..\..\..\usr\lib64\cmake\SDL2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Advanced_C___Graphics">
+				<Option output="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug/Advanced_C___Graphics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/zander/CLionProjects/Advanced C++ Graphics/$(GLEW_INCLUDE_DIRS)"/>
+					<Add directory="/home/zander/CLionProjects/Advanced C++ Graphics/Advanced_C___Graphics"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/home/zander/CLionProjects/Advanced C++ Graphics/GL"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/../../../../include/c++/7.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/../../../../include/c++/7.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/../../../../include/c++/7.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 Advanced_C___Graphics"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Advanced_C___Graphics/fast">
+				<Option output="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug/Advanced_C___Graphics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zander/CLionProjects/Advanced C++ Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/zander/CLionProjects/Advanced C++ Graphics/$(GLEW_INCLUDE_DIRS)"/>
+					<Add directory="/home/zander/CLionProjects/Advanced C++ Graphics/Advanced_C___Graphics"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/home/zander/CLionProjects/Advanced C++ Graphics/GL"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/../../../../include/c++/7.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/../../../../include/c++/7.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/../../../../include/c++/7.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 Advanced_C___Graphics/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zander/CLionProjects/Advanced\ C++\ Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/Errors.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/GLSLProgram.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/IOManager.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/MainGame.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/OpenGLTexture.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/Sprite.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/Vertex.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/include/picoPNG.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/Errors.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/GLSLProgram.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/IOManager.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/ImageLoader.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/ImageLoader.h">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/MainGame.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/Sprite.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/main.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/src/picoPNG.cpp">
+			<Option target="Advanced_C___Graphics"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/zander/CLionProjects/Advanced C++ Graphics/../../../../usr/lib64/cmake/SDL2/sdl2-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib64\cmake\SDL2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
